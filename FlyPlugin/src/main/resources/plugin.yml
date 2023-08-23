@@ -1,0 +1,7 @@
+name: FlyPlugin
+version: '${project.version}'
+main: me.melchi.flyplugin.FlyPlugin
+api-version: '1.19'
+commands:
+  fly:
+  speed:

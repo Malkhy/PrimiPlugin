@@ -1,0 +1,7 @@
+name: FlyPlugin
+version: '1.0-SNAPSHOT'
+main: me.melchi.flyplugin.FlyPlugin
+api-version: '1.19'
+commands:
+  fly:
+  speed:
